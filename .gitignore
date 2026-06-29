@@ -1,4 +1,4 @@
-# STALCRAFT Clan Bot - Git Ignore
+# StalZone Clan Bot - Git Ignore
 
 # Конфигурация с токеном
 config.json
@@ -6,6 +6,10 @@ config.json
 # База данных
 *.db
 data/cache.db
+
+# Данные участников / экспорты (не публиковать)
+*.xlsx
+data/*.xlsx
 
 # Логи
 *.log

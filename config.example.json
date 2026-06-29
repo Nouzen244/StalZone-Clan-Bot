@@ -1,0 +1,8 @@
+{
+    "TOKEN": "YOUR_BOT_TOKEN_HERE",
+    "PREFIX": "!",
+    "TIMEZONE": "Europe/Moscow",
+    "LOG_LEVEL": "INFO",
+    "DB_PATH": "data/bot_database.db",
+    "EXCEL_PATH": "data/clan_attendance.xlsx"
+}
